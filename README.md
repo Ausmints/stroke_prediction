@@ -25,3 +25,7 @@ The objective of this project will be to create a model that can help doctors al
 * Combined models
 
 * Conclusions
+
+## Libraries used
+
+scikit-learn, imblearn, sklego
